@@ -12,6 +12,6 @@ My expertise spans multiple programming principles and languages, and I am passi
 
 Here is how it is going
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hricha05=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hricha05)](https://github.com/anuraghazra/github-readme-stats)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/677d4f1470129741a80600e6?variant=dark)](https://roadmap.sh)
