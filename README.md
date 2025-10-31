@@ -1,20 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Harun
+**🚀Oracle Database Administrator | SQL Developer**
 
-<!--
-**hricha05/hricha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Get in touch at harunrich@me.com
 
-Here are some ideas to get you started:
+### 🌟 About Me
+I am a proactive and highly resourceful professional with several years of experience in data manipulation, specialising in query optimisation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm currently learning\
+My expertise spans multiple programming principles and languages, and I am passionate about driving continuous improvement through detailed analysis and effective problem-solving. I thrive on tackling complex challenges and delivering efficient, scalable solutions.
+
+🌱 I’m currently exploring Data Engineering 💻
+
 Here is how it is going
 
 [![roadmap.sh](https://roadmap.sh/card/wide/677d4f1470129741a80600e6?variant=dark)](https://roadmap.sh)
