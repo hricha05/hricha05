@@ -14,4 +14,4 @@ My expertise spans multiple programming principles and languages, and I am passi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hricha05&show_icons=true&theme=tokyonight&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/677d4f1470129741a80600e6?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/677d4f1470129741a80600e6?variant=dark)](https://roadmap.sh)
