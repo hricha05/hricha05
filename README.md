@@ -5,9 +5,7 @@
 <h4>📫 Get in touch at <a href mailto:"harunrich@me.com">harunrich@me.com</a></h4>
 
 ## 🌟 About Me
-I am a proactive and highly resourceful professional with several years of experience in data manipulation and analysis, specialising in query optimisation. 
-
-My expertise spans multiple programming principles and languages, and I am passionate about driving continuous improvement through detailed analysis and effective problem-solving. I thrive on tackling complex challenges and delivering efficient, scalable solutions.
+I am a proactive and highly resourceful professional with several years of hands-on experience providing operation support for production application databases, managing major incidents and optimising SQL performance. My experience shows that I constantly apply strong analytical skills, sound judgement and a calm, structured approach to ensure service reliability and drive continuous improvement across operational processes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hricha05&layout=compact&card_width=300&hide_progress=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
